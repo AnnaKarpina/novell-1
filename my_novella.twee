@@ -16,6 +16,10 @@
 {
 <div class="scene-wrapper">
 <div class="dialog-box">
+<div class="dialog-box">
+<img
+src="https://github.com/AnnaKarpina/novell-1/blob/main/fon_dly_novell1.png?ra
+w=true">
 
 
 <div class="renpy-name">Настенька</div>
@@ -32,6 +36,10 @@
 {
 <div class="scene-wrapper">
 <div class="dialog-box">
+<div class="dialog-box">
+<img
+src="https://github.com/AnnaKarpina/novell-1/blob/main/fon_dly_novell1.png?ra
+w=true">
 
 
 <div class="renpy-name">Рассказчик</div>
@@ -49,6 +57,10 @@
 {
 <div class="scene-wrapper">
 <div class="dialog-box">
+<div class="dialog-box">
+<img
+src="https://github.com/AnnaKarpina/novell-1/blob/main/fon_dly_novell1.png?ra
+w=true">
 
 
 <div class="renpy-name">Рассказчик</div>
@@ -65,7 +77,9 @@
 {
 <div class="scene-wrapper">
 <div class="dialog-box">
-
+<img
+src="https://github.com/AnnaKarpina/novell-1/blob/main/fon_dly_novell2.png?ra
+w=true">
 
 <div class="renpy-name">Рассказчик</div>
     <div class="renpy-text">
@@ -81,7 +95,9 @@
 {
 <div class="scene-wrapper">
 <div class="dialog-box">
-
+<img
+src="https://github.com/AnnaKarpina/novell-1/blob/main/fon_dly_novell2.png?ra
+w=true">
 
 <div class="renpy-name">Леший</div>
     <div class="renpy-text">
@@ -97,7 +113,9 @@
 {
 <div class="scene-wrapper">
 <div class="dialog-box">
-
+<img
+src="https://github.com/AnnaKarpina/novell-1/blob/main/fon_dly_novell2.png?ra
+w=true">
 
 <div class="renpy-name">Настенька</div>
     <div class="renpy-text">
@@ -109,12 +127,13 @@
 }
 
 
-
 :: 1.7 {"position":"800,1225","size":"100,100"}
 {
 <div class="scene-wrapper">
 <div class="dialog-box">
-
+<img
+src="https://github.com/AnnaKarpina/novell-1/blob/main/fon_dly_novell2.png?ra
+w=true">
 
 <div class="renpy-name">Леший</div>
     <div class="renpy-text">
@@ -131,7 +150,9 @@
 {
 <div class="scene-wrapper">
 <div class="dialog-box">
-
+<img
+src="https://github.com/AnnaKarpina/novell-1/blob/main/fon_dly_novell2.png?ra
+w=true">
 
 <div class="renpy-name">Настенька</div>
     <div class="renpy-text">
@@ -271,8 +292,6 @@
 </div>
 }
 
-[[Параграф без названия 1]] 
-
 
 :: 3.4 {"position":"1000,350","size":"100,100"}
 {
@@ -355,7 +374,7 @@
 }
 
 
-:: 4.2 {"position":"600,575","size":"100,100"}
+:: 4.2 {"position":"600,525","size":"100,100"}
 {
 <div class="scene-wrapper">
 <div class="dialog-box">
@@ -371,7 +390,7 @@
 }
 
 
-:: 4.3 {"position":"600,700","size":"100,100"}
+:: 4.3 {"position":"650,650","size":"100,100"}
 {
 <div class="scene-wrapper">
 <div class="dialog-box">
@@ -387,12 +406,12 @@
 }
 
 
-:: 4.4 {"position":"600,825","size":"100,100"}
- ЭПИЛОГ: Рассвет
+:: 4.4 {"position":"675,775","size":"100,100"}
+ЭПИЛОГ: Рассвет
  [[Далее|5]]
 
 
-:: 5 {"position":"600,975","size":"100,100"}
+:: 5 {"position":"650,900","size":"100,100"}
 {
 <div class="scene-wrapper">
 <div class="dialog-box">
@@ -408,7 +427,7 @@
 }
 
 
-:: 5.1 {"position":"600,1100","size":"100,100"}
+:: 5.1 {"position":"625,1025","size":"100,100"}
 {
 <div class="scene-wrapper">
 <div class="dialog-box">
@@ -424,7 +443,7 @@
 }
 
 
-:: 5.2 {"position":"600,1225","size":"100,100"}
+:: 5.2 {"position":"675,1150","size":"100,100"}
 {
 <div class="scene-wrapper">
 <div class="dialog-box">
@@ -440,7 +459,7 @@
 }
 
 
-:: 5.3 {"position":"600,1350","size":"100,100"}
+:: 5.3 {"position":"600,1275","size":"100,100"}
 {
 <div class="scene-wrapper">
 <div class="dialog-box">
@@ -457,7 +476,7 @@
 }
 
 
-:: 5.4 {"position":"600,1475","size":"100,100"}
+:: 5.4 {"position":"525,1400","size":"100,100"}
 {
 <div class="scene-wrapper">
 <div class="dialog-box">
@@ -473,7 +492,7 @@
 }
 
 
-:: 5.5 {"position":"600,1600","size":"100,100"}
+:: 5.5 {"position":"450,1250","size":"100,100"}
 {
 <div class="scene-wrapper">
 <div class="dialog-box">
@@ -496,7 +515,9 @@
 {
 <div class="scene-wrapper">
 <div class="dialog-box">
-
+<img
+src="https://github.com/AnnaKarpina/novell-1/blob/main/fon_dly_novell2.png?ra
+w=true">
 
 <div class="renpy-name">Рассказчик</div>
     <div class="renpy-text">
@@ -512,7 +533,9 @@
 {
 <div class="scene-wrapper">
 <div class="dialog-box">
-
+<img
+src="https://github.com/AnnaKarpina/novell-1/blob/main/fon_dly_novell2.png?ra
+w=true">
 
 <div class="renpy-name">Леший</div>
     <div class="renpy-text">
@@ -564,7 +587,6 @@
 КОНЦОВКА: «Серый пёс»
 
 
-
 :: Dead.3.1 {"position":"575,150","size":"100,100"}
 {
 <div class="scene-wrapper">
@@ -581,29 +603,14 @@
 }
 
 
-
-:: Бросить псу клубок ниток, чтобы он играл {"position":"1625,425","size":"100,100"}
-Рассказчик:
-Пёс даже не смотрит на нитки. Он делает шаг, и мир вокруг гаснет. Ты понимаешь, что поле перед тобой было лишь иллюзией, сотканной из твоих надежд.
-
-КОНЦОВКА: «Серый пёс»
-
-
-
-:: Достать железный гвоздь и вонзить его в камень {"position":"1625,575","size":"100,100"}
-Рассказчик:
-Ты оборачиваешься. Обычный лес. Никаких рун, никаких теней.
-Но когда ты сунула руку в карман, чтобы достать платок, твои пальцы нащупали не гвоздь.
-Там лежал гладкий, холодный речной жемчуг и сухая еловая веточка, перевязанная красной нитью.
-
-Настенька (мысли):
-Лес отпустил.
-
-
 :: Параграф без названия {"position":"800,350","size":"100,100"}
 {
 <div class="scene-wrapper">
 <div class="dialog-box">
+<img
+src="https://github.com/AnnaKarpina/novell-1/blob/main/fon_dly_novell1.png?ra
+w=true">
+
 
 
 <div class="renpy-name">Рассказчик</div>
@@ -616,14 +623,6 @@
 	</div>
 </div>
 }
-
-
-:: Параграф без названия 1 {"position":"1350,450","size":"100,100"}
-Настенька (мысли):
-Дедушка говорил: «Железо — кровь земли. Оно тёмным смерть».
-
-[[Бросить псу клубок ниток, чтобы он играл]]
-[[Достать железный гвоздь и вонзить его в камень]]
 
 
 :: StoryStylesheet [stylesheet]
